@@ -1,5 +1,30 @@
-# DOM e Array no JavaScript
+<h1 align="center">
+    <img src="./files/logo.jpg" alt="" width="400">
+</h1>
 
-- Manipulando DOM e armazenando dados no navegador.
+<p align="center">
+  :white_check_mark: <a href="https://andreadcsousa.github.io/alura_array_javascript/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :white_check_mark: <a href="https://www.alura.com.br/curso-online-javascript-manipulacao-dom" target="_blank">Conheça o curso</a>
+</p>
 
-![Caption](https://files.cercomp.ufg.br/weby/up/342/o/em_construcao.jpg)
+# :computer: Projeto
+ 
+- Idealizador: Alura
+- Projeto: Formação Front-End
+- Lado da força: Front-End
+- Tipo: DOM e Array no JavaScript
+- Etapa: Armazenamento de dados no navegador
+
+# :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com:
+
+<img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100"><img src="./files/javascript.svg" width="100">
+
+E com os recursos > Document Object Model (DOM):
+
+<img src="./files/dom.gif" width="60%">
+
+# :art: Layout
+
+<img src="./files/array-dom.jpg" alt="" width="100%">
